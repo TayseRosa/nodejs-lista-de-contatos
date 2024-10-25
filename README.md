@@ -18,7 +18,6 @@
     <li>Criação de rotas no express para atender diferentes endpoints</li>
     <li>Implementação de middlewares para tratamento de erros e validação</li>
     <li>Manipulação de arquivos</li>    
-    <li>Integração com um banco de dados (ex: MongoDB ou MySQL) para persistência de dados</li>
 </ul>
 
 <p>🚀 Tecnologias Utilizadas </p>
@@ -40,13 +39,6 @@ npm run start
 <br>
 
 <h1>Minhas anotações.</h1>
-
-## 📫 Como iniciar seu projeto em node e inserir Typescript no projeto
-
-Para adicionar typescript ao seu projeto, siga estas etapas:
-
-1. Instale  `npm install -D typescript`.
-
 
 ---
 <br>
