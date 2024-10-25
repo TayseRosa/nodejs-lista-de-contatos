@@ -28,13 +28,43 @@
 <br>
 
 <br>
-<h1>Instalação</h1>
-<p>Para rodar esse projeto em sua maquina local, basta seguir o passo abaixo:</p>
+<h1>Configuração inicial do projeto</h1>
+<p>Para configurar o projeto, basta seguir o passo abaixo:</p>
 
 ```
-git clone
-npm install
-npm run start
+npm init
+npm i express helmet
+npm i -D @types/express @types/node tsx typescript
+criar pasta ./src/server.ts
+//arquivo de configuração typescript
+npx tsc --init 
+//No package.json:
+  "dev":"node --import=tsx --watch ./src/server.ts"
+//No ./src/server.ts
+import express from "express";
+import helmet from "helmet";
+import router from "./routes";
+
+const server = express();
+server.use(helmet());
+server.use(express.json())
+server.use(express.urlencoded({ extended:true }))
+
+server.use('/', router)
+
+server.listen(3000, ()=>{
+    console.log('Servidor rodando: https:localhost:3000/')
+})
+
+//Criar o arquivo das rotas em:
+./src/routes/index.ts
+
+import express from 'express'
+const router = express.Router()
+
+//rotas here...
+
+export default router;
 ```
 <br>
 
