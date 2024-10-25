@@ -65,6 +65,8 @@ const router = express.Router()
 //rotas here...
 
 export default router;
+
+Testar se o servidor está rodando: npm run dev
 ```
 <br>
 
