@@ -6,6 +6,8 @@
 </p>
 
 <br>
+🟢 Status do projeto: Concluído    :
+---
 <h1>Sobre o Projeto</h1>
 <p>Projeto NodeJS - Lista de contatos:</p>
 <p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, construindo uma aplicação de kista de contatos.</p>
@@ -68,14 +70,28 @@ export default router;
 
 Testar se o servidor está rodando: npm run dev
 ```
-<br>
-
-<h1>Minhas anotações.</h1>
-
 ---
 <br>
 
-<h1>Licença</h1>
-<p>Esse projeto está sob a licença MIT.</p>
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+
+## 📫 Contribuindo para Projeto
+
+Para contribuir com Projeto, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+
+<a href="https://www.tayserosa.com">
+<img src="./readmeImages/about_developer.png" target="_blank" alt="Tayse Rosa">
+</a>
 <br>
 <p align="center">Feito com 💜 por Tayse Rosa</p>
