@@ -6,8 +6,10 @@
 </p>
 
 <br>
-🟢 Status do projeto: Concluído    :
+🟢 Status do projeto: Concluído
+
 ---
+
 <h1>Sobre o Projeto</h1>
 <p>Projeto NodeJS - Lista de contatos:</p>
 <p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, construindo uma aplicação de kista de contatos.</p>
@@ -91,7 +93,5 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 
 <a href="https://www.tayserosa.com">
-<img src="./readmeImages/about_developer.png" target="_blank" alt="Tayse Rosa">
-</a>
-<br>
 <p align="center">Feito com 💜 por Tayse Rosa</p>
+</a>
