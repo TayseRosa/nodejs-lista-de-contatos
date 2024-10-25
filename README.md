@@ -17,7 +17,7 @@
     <li>Configuração do servidor do zero com Node.js</li>
     <li>Criação de rotas no express para atender diferentes endpoints</li>
     <li>Implementação de middlewares para tratamento de erros e validação</li>
-    <li>Manipulação de arquivos</li>    
+    <li>Salvar os dados em arquivos txt</li>    
 </ul>
 
 <p>🚀 Tecnologias Utilizadas </p>
