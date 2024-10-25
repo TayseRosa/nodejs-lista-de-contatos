@@ -15,8 +15,7 @@ Tayse Rosa
 
 ---
 
-<h1>Sobre o Projeto</h1>
-<p>Projeto NodeJS - Lista de contatos:</p>
+<h1>h1rojeto NodeJS - Lista de contatos:</h1>
 <p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, construindo uma aplicação de kista de contatos.</p>
 
 
