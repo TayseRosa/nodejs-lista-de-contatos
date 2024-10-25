@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-lista-contatos",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img src=\"https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo.png\" width=\"160\"> </p> <p align=\"center\">  NodeJS - Lista de contatos </p>",
+  "main": "src/server.ts",
+  "scripts": {
+      "dev":"node --import=tsx --watch ./src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TayseRosa/nodejs-lista-de-contatos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TayseRosa/nodejs-lista-de-contatos/issues"
+  },
+  "homepage": "https://github.com/TayseRosa/nodejs-lista-de-contatos#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "helmet": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.9",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  }
+}
