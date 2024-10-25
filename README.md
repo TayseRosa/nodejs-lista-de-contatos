@@ -6,6 +6,9 @@
 </p>
 
 <br>
+<a href="https://www.tayserosa.com">
+Desenvolvedora: Tayse Rosa
+</a>
 🟢 Status do projeto: Concluído
 
 ---
